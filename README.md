@@ -31,12 +31,12 @@ __RONI__
 
 </br>
 
- #Inline Code
+ # Inline Code
 
 
 `This is inline code `
 
-##MultiLine inline code
+## MultiLine inline code
 
 ``` this is multiline code.THis is multiline code. ```
 
